@@ -1,0 +1,8 @@
+Origin: MINI
+Label: MINI
+Suite: stable
+Codename: termux
+Version: 1.0
+Architectures: aarch64
+Components: main
+Description: MINI editor package
